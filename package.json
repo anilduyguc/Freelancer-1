@@ -1,0 +1,24 @@
+{
+  "name": "freelancer-1",
+  "version": "1.0.0",
+  "description": "freelancing",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrKenobii/Freelancer-1.git"
+  },
+  "author": "Anil Duyguc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrKenobii/Freelancer-1/issues"
+  },
+  "homepage": "https://github.com/MrKenobii/Freelancer-1#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
